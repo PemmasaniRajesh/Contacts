@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/favourites"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_star_outline"
+        android:title="@string/label_favourite_contacts"/>
+
+    <item
+        android:id="@+id/allcontacts"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_people_outline"
+        android:title="@string/label_all_contacts"/>
+
+</menu>
